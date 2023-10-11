@@ -1,0 +1,67 @@
+$primary:                     #3155a8;
+$secondary:                   #FE347E;//#CC3363;
+$tertiary:                    #df00ff;
+$success:                     #3CD070;//03C03C;//66FF66;//39FF14;//01796F;//177245;//00A86B;//50c878; //hsl 140 52 54
+$info:                        #77B5FE;
+$warning:                     #fa7a1e;
+$danger:                      #ff2719;//FE347E;
+$dark:                        #205030;
+$light:                       #d8f3e1;
+$spacer:                      1rem;
+$white:                       #f7fdf9;
+
+$enable-dark-mode:            true;
+$color-mode-type:             data; // `data` or `media-query`
+
+$body-color:                #205030;//#183C24;
+$body-bg:                   #DCF4E4;
+$body-bg-dark:              #0C2715;
+
+$body-secondary-color:      #ff2719;
+$body-secondary-bg:         #E0E8FD; // --pale-blue
+
+$body-tertiary-color:       #df00ff;
+$body-tertiary-bg:          #111;
+
+$body-emphasis-color:       $body-tertiary-color;
+
+$font-family-sans-serif:      Gotham,Epilogue, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-size-root:              16px;
+$font-size-base:              1rem;
+$body-font-weight:            200;
+// $headings-margin-bottom:   $spacer * .5;
+$headings-font-family:        'Gotham',Epilogue, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+// $headings-font-style:         null;
+$headings-font-weight:        700;
+$headings-line-height:        1.8;
+$headings-color:              #205030;
+
+// $h1-font-size:                $font-size-base * 2.5;
+// $h2-font-size:                $font-size-base * 2;
+// $h3-font-size:                $font-size-base * 1.75;
+// $h4-font-size:                $font-size-base * 1.5;
+// $h5-font-size:                $font-size-base * 1.25;
+// $h6-font-size:                $font-size-base;
+
+// scss-docs-start display-headings
+// $display-font-sizes: (
+//   1: 5rem,
+//   2: 4.5rem,
+//   3: 4rem,
+//   4: 3.5rem,
+//   5: 3rem,
+//   6: 2.5rem
+// );
+
+
+
+// $lead-font-size:              $font-size-base * 1.25;
+$lead-font-weight:            400;
+
+// $small-font-size:             .875em;
+
+// .bg-gradient-danger {
+// background: $red-100;
+// background: linear-gradient(150deg, $red-100 0%, $red-200 67%);
+// }
